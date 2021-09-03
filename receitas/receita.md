@@ -12,3 +12,5 @@
 - 1 colher (chá) de sal
 - farinha de trigo para polvilhar a bancada
 
+## Autor Luiz Amaro
+
