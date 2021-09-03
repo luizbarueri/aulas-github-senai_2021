@@ -1,6 +1,6 @@
 # Receita de bolo de batata doce
 
-#### INGREDIENTES
+#### INGREDIENTES :coffee:
 
 - 1 xícara (chá) de batata-doce cozida e amassada (1 batata grande)
 - 3 xícaras (chá) de farinha de trigo
